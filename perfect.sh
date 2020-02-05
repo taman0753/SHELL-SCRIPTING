@@ -15,5 +15,5 @@ if [ $s -eq $num ];
 then
 	echo "perfect  number"
 else
-	echo "not a perfect number"
+	echo "it is not a perfect number"
 fi
