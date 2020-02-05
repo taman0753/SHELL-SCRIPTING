@@ -2,7 +2,6 @@
 read -p "enter the number: " num
 
 s=0 
-
 for c in $num
 do  
    div=$(($num%c))
