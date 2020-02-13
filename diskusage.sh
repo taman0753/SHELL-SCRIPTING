@@ -1,7 +1,7 @@
 #!/bin/bash
 LIMIT='80'
 dir_name='/var'
-mailto="500060720@stu.upes.ac.in"
+mailto="500069023@stu.upes.ac.in"
 subject="Disk Usage of $dir_name in Ubuntu"
 MAILX="mailx"
 which $MAILX > /dev/null 2>&1
