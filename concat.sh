@@ -3,7 +3,7 @@
 echo "Hello to the Concatenation code!!!"
 
 #Take first input from user via stdin
-read -p "Enter the first string: " str1
+read -p "Enter  first string: " str1
 
 #Take second input from user via stdin
 read -p "Enter the second string: " str2
