@@ -6,7 +6,7 @@ echo "Hello to the Concatenation code!!!"
 read -p "Enter  first string: " str1
 
 #Take second input from user via stdin
-read -p "Enter the second string: " str2
+read -p "Enter  second string: " str2
 
 #Concatenate the string
 str="$str1$str2"
