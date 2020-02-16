@@ -1,9 +1,6 @@
 # !/bin/bash 
    
-# Program to swap two numbers 
-   
-# Static input of the 
-# number 
+ 
 first=5 
 second=10 
    
